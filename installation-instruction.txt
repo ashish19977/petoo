@@ -1,0 +1,8 @@
+1. git clone https://github.com/ashish19977/petoo    ===> this will copy all of app source code in your machine.
+2. expo build:android -t apk         ===> run this command in cloned folder and wait it to complete
+     2.a) while step 2 is completin it will ask for generate or upload a keystore so choose generate option.
+
+3. Wait for step 2 to complete and then it will give you the link to download apk file.
+4. Copy this apk file in your phone and install the app.
+
+5. If you want to skip all of above processess , there is a readymade apk available here : https://expo.io/artifacts/26271ab5-ba47-409f-9235-454a0bddbacf
